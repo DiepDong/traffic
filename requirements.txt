@@ -1,0 +1,9 @@
+uvicorn[standard]
+fastapi
+streamlit
+torch
+torchvision
+onnxruntime
+opencv-python
+python-multipart
+tkinter
